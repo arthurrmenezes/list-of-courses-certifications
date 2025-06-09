@@ -35,16 +35,46 @@ Faculdade de Informática e Administração Paulista (FIAP) - 2024-2027 (4 anos)
 - C# parte 1: primeiros passos. *Escola: [Alura](https://www.alura.com.br/). Duração: 8h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/csharp-parte-1-primeiros-passos)
 
 **Java**
+- Java e java.lang: programe com a classe Object e String. *Escola: [Alura](https://www.alura.com.br/). Duração: 12h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/java-pacotes-e-java-lang)
+- Java e java.util: Coleções, Wrappers e Lambda expressions. *Escola: [Alura](https://www.alura.com.br/). Duração: 12h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/java-util-lambdas)
+- Java Exceções: aprenda a criar, lançar e controlar exceções. *Escola: [Alura](https://www.alura.com.br/). Duração: 12h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/java-excecoes)
+- Java: consumindo API, gravando arquivos e lidando com erros. *Escola: [Alura](https://www.alura.com.br/). Duração: 10h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/java-consumindo-api-gravando-arquivos-lidando-erros)
+- Java: trabalhando com listas e coleções de dados. *Escola: [Alura](https://www.alura.com.br/). Duração: 8h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/java-listas-colecoes-dados)
+- Java Polimorfismo: entenda herança e interfaces. *Escola: [Alura](https://www.alura.com.br/). Duração: 16h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/java-heranca-interfaces-polimorfismo)
+- Java: aplicando a Orientação a Objetos. *Escola: [Alura](https://www.alura.com.br/). Duração: 10h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/java-aplicando-orientacao-objetos)
+- Java: criando a sua primeira aplicação. *Escola: [Alura](https://www.alura.com.br/). Duração: 8h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/java-criando-primeira-aplicacao)
+- Java OO: entendendo a Orientação a Objetos. *Escola: [Alura](https://www.alura.com.br/). Duração: 8h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/java-introducao-orientacao-objetos)
+- Java JRE e JDK: compile e execute o seu programa. *Escola: [Alura](https://www.alura.com.br/). Duração: 8h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/java-primeiros-passos)
 
 **PHP**
+- PHP: conceitos, lidando com dados, loops e mais. *Escola: [Alura](https://www.alura.com.br/). Duração: 86h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/php-primeiros-passos)
+- PHP: conheça a programação Orientada a Objetos. *Escola: [Alura](https://www.alura.com.br/). Duração: 8h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/php-programacao-orientada-objetos)
+- PHP: evolua seu conhecimento e organize seu código. *Escola: [Alura](https://www.alura.com.br/). Duração: 8h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/php-evolua-conhecimento-organize-codigo)
+- PHP: criando sua aplicação. *Escola: [Alura](https://www.alura.com.br/). Duração: 8h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/php-criando-aplicacao)
+
+**Web**
+- HTTP: entendendo a web por baixo dos panos. *Escola: [Alura](https://www.alura.com.br/). Duração: 10h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/http-entendendo-web-por-baixo-dos-panos)
+- HTTP: Entendendo a web por baixo dos panos. *Escola: [Alura](https://www.alura.com.br/). Duração: 14h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/http-fundamentos)
 
 **Python**
+- Python: começando com a linguagem. *Escola: [Alura](https://www.alura.com.br/). Duração: 12h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/python-introducao-a-linguagem)
 
 **Lógica de Programação**
-
-**HTML / CSS / JavaScript**
+- Lógica de programação: mergulhe em programação com JavaScript. *Escola: [Alura](https://www.alura.com.br/). Duração: 6h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/logica-programacao-mergulhe-programacao-javascript)
+- Lógica de programação: comece em lógica com o jogo Pong e JavaScript. *Escola: [Alura](https://www.alura.com.br/). Duração: 6h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/pong-javascript)
+- Lógica de programação: laços e listas com JavaScript. *Escola: [Alura](https://www.alura.com.br/). Duração: 4h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/javascript-listas-lacos)
 
 **Banco de Dados**
+- Modelagem de dados: aplicando a normalização. *Escola: [Alura](https://www.alura.com.br/). Duração: 8h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/modelagem-dados-aplicando-normalizacao)
+- Modelagem de dados: construindo o modelo físico. *Escola: [Alura](https://www.alura.com.br/). Duração: 8h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/modelagem-dados-construindo-modelo-fisico)
+- Modelagem de dados: desenvolvendo o modelo lógico. *Escola: [Alura](https://www.alura.com.br/). Duração: 8h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/modelagem-dados-desenvolvendo-modelo-logico)
+- Modelagem de dados: identificando entidades, atributos, relacionamentos. *Escola: [Alura](https://www.alura.com.br/). Duração: 8h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/modelagem-dados-entidades-atributos-relacionamentos)
+
+**HTML / CSS / JavaScript**
+- HTML e CSS: trabalhando com responsividade e publicação de projetos. *Escola: [Alura](https://www.alura.com.br/). Duração: 6h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/html-css-responsividade-publicacao-projetos)
+- HTML e CSS: cabeçalho, footer e variáveis CSS. *Escola: [Alura](https://www.alura.com.br/). Duração: 6h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/html-css-cabecalho-footer-variaveis-css)
+- HTML e CSS: Classes, posicionamento e Flexbox. *Escola: [Alura](https://www.alura.com.br/). Duração: 8h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/html-css-classes-posicionamento-flexbox)
+- HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags. *Escola: [Alura](https://www.alura.com.br/). Duração: 8h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/html-css-ambiente-arquivos-tags)
 
 ## **Certificados**
 
