@@ -1,5 +1,4 @@
 # **Cursos e Certificados**
----
 Repositório reservado para listar todos os meus cursos e certificações.
 
 ## **Índice 📌**
