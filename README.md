@@ -33,6 +33,12 @@ Faculdade de Informática e Administração Paulista (FIAP) - 2024-2027 (4 anos)
 - C# parte 2: Entendendo a Orientação a Objetos. *Escola: [Alura](https://www.alura.com.br/). Duração: 8h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/csharp-parte-2-introducao-orientacao-objetos)
 - C# parte 1: primeiros passos. *Escola: [Alura](https://www.alura.com.br/). Duração: 8h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/csharp-parte-1-primeiros-passos)
 
+**Flutter e Dart**
+- Dart: trabalhando com a sintaxe e configuração de projeto. *Escola: [Alura](https://www.alura.com.br/). Duração: 8h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/dart-trabalhando-sintaxe-configuracao-projeto)
+- Praticando Collections no Dart: listas, sets e mapas. *Escola: [Alura](https://www.alura.com.br/). Duração: 6h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/praticando-collections-dart-listas-sets-mapas)
+- Dart: trabalhando com orientação a objetos. *Escola: [Alura](https://www.alura.com.br/). Duração: 8h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/dart-trabalhando-orientacao-objetos)
+- Dart: dominando assincronismo e criando comunicação com APIs. *Escola: [Alura](https://www.alura.com.br/). Duração: 10h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/dart-dominando-assincronismo-criando-comunicacao-apis)
+
 **Java**
 - Java e java.lang: programe com a classe Object e String. *Escola: [Alura](https://www.alura.com.br/). Duração: 12h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/java-pacotes-e-java-lang)
 - Java e java.util: Coleções, Wrappers e Lambda expressions. *Escola: [Alura](https://www.alura.com.br/). Duração: 12h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/java-util-lambdas)
