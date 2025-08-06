@@ -81,8 +81,6 @@ Faculdade de Informática e Administração Paulista (FIAP) - 2024-2027 (4 anos)
 - HTML e CSS: Classes, posicionamento e Flexbox. *Escola: [Alura](https://www.alura.com.br/). Duração: 8h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/html-css-classes-posicionamento-flexbox)
 - HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags. *Escola: [Alura](https://www.alura.com.br/). Duração: 8h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/html-css-ambiente-arquivos-tags)
 
-## **Certificados**
-
 ## **Idiomas**
 - **Português:** Nativo/Fluente  
 - **Inglês:** Intermediário
