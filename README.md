@@ -33,7 +33,8 @@ Faculdade de Informática e Administração Paulista (FIAP) - 2024-2027 (4 anos)
 - C# parte 2: Entendendo a Orientação a Objetos. *Escola: [Alura](https://www.alura.com.br/). Duração: 8h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/csharp-parte-2-introducao-orientacao-objetos)
 - C# parte 1: primeiros passos. *Escola: [Alura](https://www.alura.com.br/). Duração: 8h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/csharp-parte-1-primeiros-passos)
 
-**Flutter e Dart**
+**Flutter/Dart**
+- Do Dart ao Flutter: criando seu primeiro aplicativo. *Escola: [Alura](https://www.alura.com.br/). Duração: 10h* 📎 [link](https://cursos.alura.com.br/user/arthurmenezes/course/dart-flutter-criando-primeiro-aplicativo/certificate)
 - Dart: trabalhando com a sintaxe e configuração de projeto. *Escola: [Alura](https://www.alura.com.br/). Duração: 8h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/dart-trabalhando-sintaxe-configuracao-projeto)
 - Praticando Collections no Dart: listas, sets e mapas. *Escola: [Alura](https://www.alura.com.br/). Duração: 6h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/praticando-collections-dart-listas-sets-mapas)
 - Dart: trabalhando com orientação a objetos. *Escola: [Alura](https://www.alura.com.br/). Duração: 8h* 📎 [link](https://cursos.alura.com.br/certificate/arthurmenezes/dart-trabalhando-orientacao-objetos)
